@@ -1,0 +1,20 @@
+#wrap{
+	margin:0px auto 0px auto;
+	padding:10px;border:1px solid #074776;border-radius:10px;
+	border-radius:10px;width:950px;
+	
+	}
+#header {
+	height:150px;border-bottom:10px solid #d2d2d2;
+}
+h2 {margin-top:0px;margin-left:400px;}
+
+#header p {margin-left:400px;}
+#footer {height:50px;border-top:10px solid #d2d2d2;clear:both;}
+h5 {text-align:center;}
+#main {border-right:1px solid #074776;width:700px;float:left;}
+#main p .content {margin-left:400px;}
+#main a .logout {margin-left:600px;}
+#sidebar {width:246px;float:left;}
+
+ 
